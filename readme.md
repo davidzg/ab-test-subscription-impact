@@ -16,7 +16,7 @@ For this experiment the Control group would not see the new Gold subscription in
 the experiment ran for about 90 days and only logged users who made a purchase. this experiment collected 1851 logs of transactions.
 
 ## Test type selection
-Given that the data doesn't follow a normal distribution, the type of test selected is the **Mann-Whitney U** test (See notebook for more details)
+Given that the data doesn't follow a normal distribution, the type of test selected is the **Mann-Whitney U** test (See [notebook](GoldSub_hypothesis_test.ipynb) for more details)
 
 ## Hypothesis definitions
 In order to know the impact of the new gold subcription, two hypothesis tests need to be evaluated: 
