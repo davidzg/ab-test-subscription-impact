@@ -41,7 +41,7 @@ For the second test evaluates the total app revenue (Gold_sub + Other items) to 
 
 # Results
 ## Test 1
-![Results_other_test](./plots/results_other.png)
+![Results_other_test](./visualizations/results_other.png)
 
 The mean revenue in the treatment group is 20.79% lower than the control group. This means the users in the treatment groupare spending a fith less on the `other items`.
 
@@ -50,7 +50,7 @@ The p-value is 3.88%, it is lower than 5%, which indicates that the null hypothe
 **Decision:** Reject $H_0$. The data shows a significant decrease in existing item sales.
 
 ## Test 2
-![Results_total test](./plots/results_total.png)
+![Results_total test](./visualizations/results_total.png)
 
 In this case, both groups are too close (only with a 7.25% difference) with a p-value of 0.72 which is very high and fails to reject the null hypothesis. This means that the 7% drop in revenue is due to random noise and the total revenue hasn't been affected by the introduction of the new subscription.
 
