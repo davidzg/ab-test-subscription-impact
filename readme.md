@@ -28,7 +28,7 @@ In order to know the impact of the new gold subcription, two hypothesis tests ne
 
 - Null Hypothesis $H_0$: The ``gold_sub`` has no impact on revenue from existing items.
 
-    $$\Large H_0: \mu_ {\ treatment\_other} = \mu_ {\ control\_other}$$
+    $$\Large H_0: \mu_ {treatment_other} = \mu_ {control_other}$$
 
 - Alternative Hypothesis $H_1$: The ``gold_sub`` significantly impacts revenue from existing items.
 
