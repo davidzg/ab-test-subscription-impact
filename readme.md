@@ -27,8 +27,11 @@ In order to know the impact of the new gold subcription, two hypothesis tests ne
  For this test both groups are going to contain only existing items offered in the shop, or rather, excluding the gold subscription. This test will compae and determine if the addition of the new subscription is "Canibalising" the existing offers.
 
 - Null Hypothesis $H_0$: The ``gold_sub`` has no impact on revenue from existing items.
-    - $H_0: \mu_{treatment\_other} = \mu_{control\_other}$
+
+    $$\Large H_0: \mu_ {\ treatment\_other} = \mu_ {\ control\_other}$$
+
 - Alternative Hypothesis $H_1$: The ``gold_sub`` significantly impacts revenue from existing items.
+
     - $H_1: \mu_{treatment\_other} \neq \mu_{control\_other}$
 
 ### Test 2
