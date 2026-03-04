@@ -28,19 +28,24 @@ In order to know the impact of the new gold subcription, two hypothesis tests ne
 
 - Null Hypothesis $H_0$: The ``gold_sub`` has no impact on revenue from existing items.
 
-    $$\Large H_0: \mu_ {treatment_other} = \mu_ {control_other}$$
+$$\Large H_0: \mu_ {treatment|other} = \mu_ {control|other}$$
 
 - Alternative Hypothesis $H_1$: The ``gold_sub`` significantly impacts revenue from existing items.
 
-    - $H_1: \mu_{treatment\_other} \neq \mu_{control\_other}$
+$$\Large H_1: \mu_ {treatment|other} \neq \mu_ {control|other}$$
+
 
 ### Test 2
 For the second test evaluates the total app revenue (Gold_sub + Other items) to see if the new subcription grew the overall revenue, even if it cannibalized other items.
 
 - $H_0$: The ``gold_sub`` has no impact on total app revenue.
-    - $\mu_{treatment\_total} = \mu_{control\_total}$
+
+$$\Large H_0: \mu_ {treatment|total} = \mu_ {control|total}$$
+
 - $H_1$: The ``gold_sub`` significantly changes total app revenue.
-    - $\mu_{treatment\_total} \neq \mu_{control\_total}$
+
+$$\Large H_1: \mu_ {treatment|total} \neq \mu_ {control|total}$$
+
 
 # Results
 ## Test 1
