@@ -1,6 +1,8 @@
 # Overview
 The goal of this project is to perform an A/B test to evaluate the impact of introducing a new Gold subscription offer into a game app's store.
 
+**[Read the Executive Summary for Stakeholders](reports/Executive_Summary.md)** 
+
 # Scenario
 A mobile app design team wants to add a new subscription to a game's shop that offers 'Gold', a scarce soft currency necessary to level up cards.
 
