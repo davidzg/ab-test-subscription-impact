@@ -14,7 +14,7 @@ The game's shop has different types of offers, some of them constant,  some are 
 For this experiment, the Control group did not see the new Gold subscription in the shop, while users in the Treatment group did. The experiment ran for approximately 90 days and only logged users who made a purchase. This experiment collected 1,851 transaction logs.
 
 ## Test type selection
-Given that the data doesn't follow a normal distribution, the **Mann-Whitney U** test was selected (See [notebook](GoldSub_hypothesis_test.ipynb) for more details).
+Given that the data doesn't follow a normal distribution, the **Mann-Whitney U** test was selected (See [notebook](https://colab.research.google.com/github/davidzg/ab-test-subscription-impact/blob/main/GoldSub_hypothesis_test.ipynb) for more details).
 
 ## Hypothesis definitions
 To determine the impact of the new Gold subscription, two tests were evaluated:
