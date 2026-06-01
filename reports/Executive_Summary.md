@@ -1,4 +1,4 @@
-# 💰 Gold Subscription A/B Test: Executive Summary
+# Gold Subscription A/B Test: Executive Summary
 **Status:** Strategic Review Required
 
 **Objective:** Evaluate if the new "Gold Subscription" (gold_sub) increases total revenue or merely cannibalizes existing shop sales.
